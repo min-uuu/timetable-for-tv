@@ -1,0 +1,141 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="3508" height="1973.25" viewBox="0 0 3508 1973.25">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-_3-4_1학기_시간표);
+      }
+
+      .cls-2, .cls-5 {
+        fill: #aeaeae;
+      }
+
+      .cls-3 {
+        font-size: 80px;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6, .cls-7 {
+        font-family: Pretendard-Bold, Pretendard;
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-7 {
+        fill: #646464;
+      }
+
+      .cls-4, .cls-5 {
+        font-size: 50px;
+      }
+
+      .cls-6 {
+        font-size: 70px;
+      }
+
+      .cls-7 {
+        font-size: 40px;
+      }
+
+      .cls-8 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-_3-4_1학기_시간표">
+      <rect width="3508" height="1973.25"/>
+    </clipPath>
+  </defs>
+  <g id="_3-4_1학기_시간표" data-name="3-4 1학기 시간표" class="cls-1">
+    <rect class="cls-8" width="3508" height="1973.25"/>
+    <rect id="Rectangle_9" data-name="Rectangle 9" width="6" height="1700" transform="translate(235 137)"/>
+    <rect id="Rectangle_17" data-name="Rectangle 17" class="cls-2" width="6" height="3400" transform="translate(3454 253) rotate(90)"/>
+    <rect id="Rectangle_18" data-name="Rectangle 18" class="cls-2" width="6" height="3400" transform="translate(3454 553) rotate(90)"/>
+    <rect id="Rectangle_19" data-name="Rectangle 19" class="cls-2" width="6" height="3400" transform="translate(3454 853) rotate(90)"/>
+    <rect id="Rectangle_20" data-name="Rectangle 20" class="cls-2" width="6" height="3400" transform="translate(3454 1153) rotate(90)"/>
+    <rect id="Rectangle_21" data-name="Rectangle 21" class="cls-2" width="6" height="3400" transform="translate(3454 1453) rotate(90)"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" class="cls-2" width="6" height="3400" transform="translate(3454 1753) rotate(90)"/>
+    <text id="공업일반" class="cls-3" transform="translate(462 385)"><tspan x="-138.343" y="0">공업일반</tspan></text>
+    <rect id="Rectangle_23" data-name="Rectangle 23" class="cls-2" width="6" height="1700" transform="translate(235 137)"/>
+    <rect id="Rectangle_24" data-name="Rectangle 24" class="cls-2" width="6" height="1700" transform="translate(685 137)"/>
+    <rect id="Rectangle_25" data-name="Rectangle 25" class="cls-2" width="6" height="1700" transform="translate(1135 137)"/>
+    <rect id="Rectangle_26" data-name="Rectangle 26" class="cls-2" width="6" height="1700" transform="translate(1585 137)"/>
+    <rect id="Rectangle_27" data-name="Rectangle 27" class="cls-2" width="6" height="1700" transform="translate(2035 137)"/>
+    <rect id="Rectangle_28" data-name="Rectangle 28" class="cls-2" width="6" height="1700" transform="translate(2485 137)"/>
+    <rect id="Rectangle_29" data-name="Rectangle 29" class="cls-2" width="6" height="1700" transform="translate(2935 137)"/>
+    <rect id="Rectangle_30" data-name="Rectangle 30" class="cls-2" width="6" height="1700" transform="translate(3385 137)"/>
+    <text id="이호성" class="cls-4" transform="translate(462 477)"><tspan x="-64.848" y="0">이호성</tspan></text>
+    <text id="월요일" class="cls-5" transform="translate(142 417)"><tspan x="-64.848" y="0">월요일</tspan></text>
+    <text id="화요일" class="cls-5" transform="translate(142 717)"><tspan x="-64.848" y="0">화요일</tspan></text>
+    <text id="수요일" class="cls-5" transform="translate(142 1017)"><tspan x="-64.848" y="0">수요일</tspan></text>
+    <text id="목요일" class="cls-5" transform="translate(142 1317)"><tspan x="-64.848" y="0">목요일</tspan></text>
+    <text id="금요일" class="cls-5" transform="translate(142 1617)"><tspan x="-64.848" y="0">금요일</tspan></text>
+    <text id="_1교시" data-name="1교시" class="cls-5" transform="translate(462 208)"><tspan x="-54.946" y="0">1교시</tspan></text>
+    <text id="_2교시" data-name="2교시" class="cls-5" transform="translate(914 208)"><tspan x="-58.494" y="0">2교시</tspan></text>
+    <text id="_3교시" data-name="3교시" class="cls-5" transform="translate(1364 208)"><tspan x="-59.211" y="0">3교시</tspan></text>
+    <text id="_4교시" data-name="4교시" class="cls-5" transform="translate(1813 208)"><tspan x="-59.651" y="0">4교시</tspan></text>
+    <text id="_5교시" data-name="5교시" class="cls-5" transform="translate(2262 208)"><tspan x="-58.909" y="0">5교시</tspan></text>
+    <text id="_6교시" data-name="6교시" class="cls-5" transform="translate(2714 208)"><tspan x="-59.306" y="0">6교시</tspan></text>
+    <text id="_7교시" data-name="7교시" class="cls-5" transform="translate(3164 208)"><tspan x="-57.623" y="0">7교시</tspan></text>
+    <text id="DB_구축" data-name="DB 구축" class="cls-3" transform="translate(914 385)"><tspan x="-131.878" y="0">DB 구축</tspan></text>
+    <text id="김혁준" class="cls-4" transform="translate(914 477)"><tspan x="-64.848" y="0">김혁준</tspan></text>
+    <text id="진로" class="cls-3" transform="translate(1364 385)"><tspan x="-69.171" y="0">진로</tspan></text>
+    <text id="전유원" class="cls-4" transform="translate(1364 477)"><tspan x="-64.848" y="0">전유원</tspan></text>
+    <text id="비영_B" data-name="비영 B" class="cls-3" transform="translate(1813 385)"><tspan x="-103.854" y="0">비영 B</tspan></text>
+    <text id="전유원-2" data-name="전유원" class="cls-4" transform="translate(1813 477)"><tspan x="-64.848" y="0">전유원</tspan></text>
+    <text id="미적" class="cls-3" transform="translate(2263 385)"><tspan x="-69.171" y="0">미적</tspan></text>
+    <text id="김재영" class="cls-4" transform="translate(2263 477)"><tspan x="-64.848" y="0">김재영</tspan></text>
+    <text id="시프_네프_컴그" data-name="시프/네프/컴그" class="cls-6" transform="translate(2713 385)"><tspan x="-207.583" y="0">시프/네프/컴그</tspan></text>
+    <text id="오종찬_안수진_정희범" data-name="오종찬/안수진/정희범" class="cls-7" transform="translate(2713 477)"><tspan x="-170.497" y="0">오종찬/안수진/정희범</tspan></text>
+    <text id="HR" class="cls-3" transform="translate(3164 430)"><tspan x="-54.033" y="0">HR</tspan></text>
+    <text id="응개_컴보" data-name="응개 / 컴보" class="cls-3" transform="translate(462 685)"><tspan x="-171.657" y="0">응개 / 컴보</tspan></text>
+    <text id="마성옥_오종찬" data-name="마성옥 / 오종찬" class="cls-4" transform="translate(462 777)"><tspan x="-150.518" y="0">마성옥 / 오종찬</tspan></text>
+    <text id="응개_컴보-2" data-name="응개 / 컴보" class="cls-3" transform="translate(914 685)"><tspan x="-171.657" y="0">응개 / 컴보</tspan></text>
+    <text id="마성옥_오종찬-2" data-name="마성옥 / 오종찬" class="cls-4" transform="translate(914 777)"><tspan x="-150.518" y="0">마성옥 / 오종찬</tspan></text>
+    <text id="비영_B-2" data-name="비영 B" class="cls-3" transform="translate(1364 685)"><tspan x="-103.854" y="0">비영 B</tspan></text>
+    <text id="전유원-3" data-name="전유원" class="cls-4" transform="translate(1364 777)"><tspan x="-64.848" y="0">전유원</tspan></text>
+    <text id="공수_A" data-name="공수 A" class="cls-3" transform="translate(1813 685)"><tspan x="-107.113" y="0">공수 A</tspan></text>
+    <text id="이효현" class="cls-4" transform="translate(1813 777)"><tspan x="-64.848" y="0">이효현</tspan></text>
+    <text id="시프_네프_컴그-2" data-name="시프/네프/컴그" class="cls-6" transform="translate(2263 685)"><tspan x="-207.583" y="0">시프/네프/컴그</tspan></text>
+    <text id="오종친_김재영_정희범" data-name="오종친/김재영/정희범" class="cls-7" transform="translate(2263 777)"><tspan x="-170.497" y="0">오종친/김재영/정희범</tspan></text>
+    <text id="DB_구축-2" data-name="DB 구축" class="cls-3" transform="translate(2713 685)"><tspan x="-131.878" y="0">DB 구축</tspan></text>
+    <text id="김혁준-2" data-name="김혁준" class="cls-4" transform="translate(2713 777)"><tspan x="-64.848" y="0">김혁준</tspan></text>
+    <text id="공업일반-2" data-name="공업일반" class="cls-3" transform="translate(462 985)"><tspan x="-138.343" y="0">공업일반</tspan></text>
+    <text id="이호성-2" data-name="이호성" class="cls-4" transform="translate(462 1077)"><tspan x="-64.848" y="0">이호성</tspan></text>
+    <text id="고전읽기" class="cls-3" transform="translate(914 985)"><tspan x="-138.343" y="0">고전읽기</tspan></text>
+    <text id="성기하" class="cls-4" transform="translate(914 1077)"><tspan x="-64.848" y="0">성기하</tspan></text>
+    <text id="비영_A" data-name="비영 A" class="cls-3" transform="translate(1364 985)"><tspan x="-107.113" y="0">비영 A</tspan></text>
+    <text id="공정도" class="cls-4" transform="translate(1364 1077)"><tspan x="-64.848" y="0">공정도</tspan></text>
+    <text id="시프_네프_컴그-3" data-name="시프/네프/컴그" class="cls-6" transform="translate(1813 985)"><tspan x="-207.583" y="0">시프/네프/컴그</tspan></text>
+    <text id="오종찬_함지연_정희범" data-name="오종찬/함지연/정희범" class="cls-7" transform="translate(1813 1077)"><tspan x="-170.497" y="0">오종찬/함지연/정희범</tspan></text>
+    <text id="DB_구축-3" data-name="DB 구축" class="cls-3" transform="translate(2263 985)"><tspan x="-131.878" y="0">DB 구축</tspan></text>
+    <text id="김혁준-3" data-name="김혁준" class="cls-4" transform="translate(2263 1077)"><tspan x="-64.848" y="0">김혁준</tspan></text>
+    <text id="공수_A-2" data-name="공수 A" class="cls-3" transform="translate(466 1285)"><tspan x="-107.113" y="0">공수 A</tspan></text>
+    <text id="이호현" class="cls-4" transform="translate(466 1377)"><tspan x="-64.848" y="0">이호현</tspan></text>
+    <text id="응개_컴보-3" data-name="응개 / 컴보" class="cls-3" transform="translate(918 1285)"><tspan x="-171.657" y="0">응개 / 컴보</tspan></text>
+    <text id="마성옥_오종찬-3" data-name="마성옥 / 오종찬" class="cls-4" transform="translate(918 1377)"><tspan x="-150.518" y="0">마성옥 / 오종찬</tspan></text>
+    <text id="응개_컴보-4" data-name="응개 / 컴보" class="cls-3" transform="translate(1368 1285)"><tspan x="-171.657" y="0">응개 / 컴보</tspan></text>
+    <text id="마성옥_오종찬-4" data-name="마성옥 / 오종찬" class="cls-4" transform="translate(1368 1377)"><tspan x="-150.518" y="0">마성옥 / 오종찬</tspan></text>
+    <text id="비영_A-2" data-name="비영 A" class="cls-3" transform="translate(1817 1285)"><tspan x="-107.113" y="0">비영 A</tspan></text>
+    <text id="공정도-2" data-name="공정도" class="cls-4" transform="translate(1817 1377)"><tspan x="-64.848" y="0">공정도</tspan></text>
+    <text id="미적-2" data-name="미적" class="cls-3" transform="translate(2267 1285)"><tspan x="-69.171" y="0">미적</tspan></text>
+    <text id="김재영-2" data-name="김재영" class="cls-4" transform="translate(2267 1377)"><tspan x="-64.848" y="0">김재영</tspan></text>
+    <text id="인공_네구_음콘" data-name="인공/네구/음콘" class="cls-6" transform="translate(2715 1285)"><tspan x="-207.583" y="0">인공/네구/음콘</tspan></text>
+    <text id="하미영_임재훈_박수영" data-name="하미영/임재훈/박수영" class="cls-7" transform="translate(2715 1377)"><tspan x="-170.497" y="0">하미영/임재훈/박수영</tspan></text>
+    <text id="공수_B" data-name="공수 B" class="cls-3" transform="translate(466 1585)"><tspan x="-103.854" y="0">공수 B</tspan></text>
+    <text id="김재영-3" data-name="김재영" class="cls-4" transform="translate(466 1677)"><tspan x="-64.848" y="0">김재영</tspan></text>
+    <text id="공업일반-3" data-name="공업일반" class="cls-3" transform="translate(918 1585)"><tspan x="-138.343" y="0">공업일반</tspan></text>
+    <text id="이호성-3" data-name="이호성" class="cls-4" transform="translate(918 1677)"><tspan x="-64.848" y="0">이호성</tspan></text>
+    <text id="DB_구축-4" data-name="DB 구축" class="cls-3" transform="translate(1368 1585)"><tspan x="-131.878" y="0">DB 구축</tspan></text>
+    <text id="김혁준-4" data-name="김혁준" class="cls-4" transform="translate(1368 1677)"><tspan x="-64.848" y="0">김혁준</tspan></text>
+    <text id="응개_컴보-5" data-name="응개 / 컴보" class="cls-3" transform="translate(1817 1585)"><tspan x="-171.657" y="0">응개 / 컴보</tspan></text>
+    <text id="마성옥_오종찬-5" data-name="마성옥 / 오종찬" class="cls-4" transform="translate(1817 1677)"><tspan x="-150.518" y="0">마성옥 / 오종찬</tspan></text>
+    <text id="고전읽기-2" data-name="고전읽기" class="cls-3" transform="translate(2267 1585)"><tspan x="-138.343" y="0">고전읽기</tspan></text>
+    <text id="성기하-2" data-name="성기하" class="cls-4" transform="translate(2267 1677)"><tspan x="-64.848" y="0">성기하</tspan></text>
+    <text id="진로-2" data-name="진로" class="cls-3" transform="translate(3163 685)"><tspan x="-69.171" y="0">진로</tspan></text>
+    <text id="전유원-4" data-name="전유원" class="cls-4" transform="translate(3163 777)"><tspan x="-64.848" y="0">전유원</tspan></text>
+    <text id="CA" class="cls-3" transform="translate(2714 1033)"><tspan x="-57.155" y="0">CA</tspan></text>
+    <text id="인공_네구_음콘-2" data-name="인공/네구/음콘" class="cls-6" transform="translate(3163 1285)"><tspan x="-207.583" y="0">인공/네구/음콘</tspan></text>
+    <text id="하미영_임재훈_박수영-2" data-name="하미영/임재훈/박수영" class="cls-7" transform="translate(3163 1377)"><tspan x="-170.497" y="0">하미영/임재훈/박수영</tspan></text>
+    <text id="인공_네구_방콘" data-name="인공/네구/방콘" class="cls-6" transform="translate(2715 1576)"><tspan x="-207.583" y="0">인공/네구/방콘</tspan></text>
+    <text id="하미영_임재훈_정희범" data-name="하미영/임재훈/정희범" class="cls-7" transform="translate(2715 1668)"><tspan x="-170.497" y="0">하미영/임재훈/정희범</tspan></text>
+    <text id="인공_네구_방콘-2" data-name="인공/네구/방콘" class="cls-6" transform="translate(3165 1576)"><tspan x="-207.583" y="0">인공/네구/방콘</tspan></text>
+    <text id="하미영_임재훈_정희범-2" data-name="하미영/임재훈/정희범" class="cls-7" transform="translate(3165 1668)"><tspan x="-170.497" y="0">하미영/임재훈/정희범</tspan></text>
+  </g>
+</svg>
