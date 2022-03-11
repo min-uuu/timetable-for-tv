@@ -1,14 +1,92 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+      body {
+        margin: 0;
+        padding: 0;
+        font-family: "pretendard";
+      }
+      #시간표 {
+        margin: 2vh 1vw;
+        height: 96vh;
+        width: 98vw;
+        background-color: #003300;
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        padding: 10px;
+      }
+      table,
+      tr,
+      td {
+        border: 2px solid white;
+        border-collapse: collapse;
+        text-align: center;
+      }
+      thead td {
+        color: white;
+        font-weight: 300;
+        font-size: 4vh;
+      }
+      td:first-child {
+        color: white;
+        font-weight: 300;
+        font-size: 4vh;
+        width: 7vw;
+      }
+      td {
+        color: white;
+        font-weight: 500;
+        font-size: 6vh;
+        width: 13vw;
+      }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <title>3학년 4반 1학기 시간표</title>
-</head>
+  </head>
+  <body>
+    <table id="시간표">
+      <thead id="교시">
+        <td>요일</td>
+        <td>1교시</td>
+        <td>2교시</td>
+        <td>3교시</td>
+        <td>4교시</td>
+        <td>5교시</td>
+        <td>6교시</td>
+        <td>7교시</td>
+      </thead>
+    </table>
+  </body>
 
-<body>
-    <img src="./timetable/timetable.png" style="width: 90%;">
-</body>
+  <script>
+    const days = ["월요일", "화요일", "수요일", "목요일", "금요일"];
+    const table = [
+      ["공일", "DB", "진로", "비영 B", "미적", "시프", "HR"],
+      ["응개", "응개", "비영 B", "공수 A", "시프", "DB", "진로"],
+      ["공일", "고전", "비영 A", "시프", "DB", "CA"],
+      ["공수 A", "응개", "응개", "비영 A", "미적", "미래", "미래"],
+      ["공수 B", "공일", "DB", "응개", "고전", "미래", "미래"],
+    ];
 
+    for (let i = 0; i < 5; i++) {
+      let day = $("<tr>").attr("id", days[i]).append($("<td>").text(days[i]));
+      table[i].forEach((s) => {
+        day.append($("<td>").text(s));
+      });
+      $("#시간표").append(day);
+    }
+
+    const lightup = () => {
+      now = new Date();
+      today = now.getDay();
+      $(`tr:nth-child(${today + 1})`).css("background-color", "#006600");
+      //   $(`tr:nth-child(${today + 1}) td:nth-child(${today})`)
+    };
+    lightup();
+    setInterval(lightup, 60000);
+  </script>
 </html>
