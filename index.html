@@ -97,7 +97,9 @@
       else if (time <= Time(16, 40)) classtime = 7;
       else classtime = -1;
 
+      $(`tr:nth-child(${today})`).css("background-color", "#003300");
       $(`tr:nth-child(${today + 1})`).css("background-color", "#006600");
+      $(`tr:nth-child(${today + 1}) td:nth-child(${classtime})`).css("background-color", "#006600");
       $(`tr:nth-child(${today + 1}) td:nth-child(${classtime + 1})`).css("background-color", "#009900");
     };
     lightup();
